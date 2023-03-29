@@ -23,3 +23,6 @@ If there is no internet connection, the program will continue to display the las
 
 # Limitations
 This program is specifically designed for Windows operating systems and may not work as intended on other platforms.
+
+# Demo of the wallpaper 
+![image](https://user-images.githubusercontent.com/74317826/228653961-2691418f-9546-4403-b24b-8691ee6845f8.png)
